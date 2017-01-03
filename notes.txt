@@ -1,0 +1,26 @@
+users
+-----
+  id
+  fname
+  lname
+  email
+  password
+  type
+
+projects
+--------
+  id
+  title
+  status
+  manager
+  members
+
+bugs
+----
+  id
+  projectId
+  description
+  status
+  createdBy
+  assignedTo
+  comments
